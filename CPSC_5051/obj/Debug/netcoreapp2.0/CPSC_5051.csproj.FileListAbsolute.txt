@@ -1,0 +1,11 @@
+/Users/Razzmatazz/Desktop/CPSC_5051/CPSC_5051/CPSC_5051/obj/Debug/netcoreapp2.0/CPSC_5051.csprojResolveAssemblyReference.cache
+/Users/Razzmatazz/Desktop/CPSC_5051/CPSC_5051/CPSC_5051/obj/Debug/netcoreapp2.0/CPSC_5051.csproj.CoreCompileInputs.cache
+/Users/Razzmatazz/Desktop/CPSC_5051/CPSC_5051/CPSC_5051/obj/Debug/netcoreapp2.0/CPSC_5051.AssemblyInfoInputs.cache
+/Users/Razzmatazz/Desktop/CPSC_5051/CPSC_5051/CPSC_5051/obj/Debug/netcoreapp2.0/CPSC_5051.AssemblyInfo.cs
+/Users/Razzmatazz/Desktop/CPSC_5051/CPSC_5051/CPSC_5051/bin/Debug/netcoreapp2.0/CPSC_5051.deps.json
+/Users/Razzmatazz/Desktop/CPSC_5051/CPSC_5051/CPSC_5051/bin/Debug/netcoreapp2.0/CPSC_5051.runtimeconfig.json
+/Users/Razzmatazz/Desktop/CPSC_5051/CPSC_5051/CPSC_5051/bin/Debug/netcoreapp2.0/CPSC_5051.runtimeconfig.dev.json
+/Users/Razzmatazz/Desktop/CPSC_5051/CPSC_5051/CPSC_5051/bin/Debug/netcoreapp2.0/CPSC_5051.dll
+/Users/Razzmatazz/Desktop/CPSC_5051/CPSC_5051/CPSC_5051/bin/Debug/netcoreapp2.0/CPSC_5051.pdb
+/Users/Razzmatazz/Desktop/CPSC_5051/CPSC_5051/CPSC_5051/obj/Debug/netcoreapp2.0/CPSC_5051.dll
+/Users/Razzmatazz/Desktop/CPSC_5051/CPSC_5051/CPSC_5051/obj/Debug/netcoreapp2.0/CPSC_5051.pdb
